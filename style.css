@@ -1,0 +1,91 @@
+body {
+    background: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-nav {
+    font-weight: bolder;
+}
+
+
+.navbar-brand {
+    margin-left: 200px;
+}
+
+
+#park-pics {
+    width: 200px;
+    height: 150px;
+}
+
+
+.text {
+    text-align: center;
+    padding-top: 180px;
+}
+
+
+.description-heading {
+    font-size: 3em;
+}
+
+
+.description {
+    margin-top: 25px;
+}
+
+
+.description2 {
+    margin-top: 25px;
+}
+
+.main-text {
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+.map-link {
+    text-decoration: none;
+    color: black;
+}
+
+
+.map-link:hover {
+    color: rgb(185, 99, 185);
+    font-weight: bold;
+}
+
+
+.footer {
+    height: 250px;
+}
+
+
+#park-pics {
+    border-radius: 6px;
+}
+
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+
+#park-map {
+    width: 250px;
+    height: 150px;
+    padding-left: 50px;
+}
+
+
+.footer {
+    height: 75%;
+    background-color: rgb(86, 161, 111, 60%);
+}
+
+
+.footer-info:hover {
+    color:blueviolet;
+}
